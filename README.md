@@ -1,3 +1,32 @@
+<p align="center">
+  <a href="https://huggingface.co/azizdeniz890/gemma-medical-qa-lora">
+    <img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model%20Hub-ffc107?style=flat-square&logo=huggingface&logoColor=black" alt="HuggingFace Model"/>
+  </a>
+  <a href="https://colab.research.google.com/">
+    <img src="https://img.shields.io/badge/Colab-GPU%20Inference-f9ab00?style=flat-square&logo=googlecolab&logoColor=white" alt="Google Colab"/>
+  </a>
+  <img src="https://img.shields.io/badge/Python-3.10%2B-blue?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/PyTorch-Framework-ee4c2c?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  
+  <br/>
+
+  <img src="https://img.shields.io/badge/Transformers-4.x-orange?style=flat-square&logo=huggingface&logoColor=white" alt="Transformers"/>
+  <img src="https://img.shields.io/badge/PEFT-LoRA-green?style=flat-square" alt="PEFT LoRA"/>
+  <img src="https://img.shields.io/badge/TRL-SFT%20Trainer-blueviolet?style=flat-square" alt="TRL"/>
+  <img src="https://img.shields.io/badge/bitsandbytes-4--bit%20Quantization-yellow?style=flat-square" alt="Bitsandbytes"/>
+
+  <br/>
+
+  <img src="https://img.shields.io/badge/Model-Gemma--2--2B--IT-4285F4?style=flat-square&logo=google&logoColor=white" alt="Gemma Model"/>
+  <img src="https://img.shields.io/badge/Task-Medical%20QA-red?style=flat-square&logo=medical-icon&logoColor=white" alt="Medical QA"/>
+  <img src="https://img.shields.io/badge/Dataset-ChatDoctor-important?style=flat-square" alt="Dataset"/>
+
+  <br/>
+
+  <img src="https://img.shields.io/badge/License-Gemma%20Open-lightgrey?style=flat-square" alt="License"/>
+  <img src="https://img.shields.io/badge/Status-Educational%20Research-00C7B7?style=flat-square" alt="Status"/>
+</p>
+
 # Gemma Medical QA (LoRA) 🩺
 
 This repository contains a medical question–answering project built by fine-tuning **Google Gemma-2-2B-IT** using **LoRA (Low-Rank Adaptation)**.  
