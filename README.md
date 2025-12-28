@@ -38,6 +38,22 @@ are **not included** in this repository due to size limits.
 
 ---
 
+## 🤗 Hugging Face Model Repository
+
+The trained LoRA adapters and tokenizer produced in this project are publicly available on Hugging Face Hub.
+
+👉 **Hugging Face Link:**  
+https://huggingface.co/azizdeniz890/gemma-medical-qa-lora
+
+This repository contains:
+- LoRA adapter weights  
+- tokenizer files  
+- configuration artifacts required for inference  
+
+Using these files, the model can be loaded and tested **without re-training**, provided that access to the base model (`google/gemma-2-2b-it`) is granted.
+
+---
+
 ## 🧠 Dataset
 
 - **Name:** `lavita/ChatDoctor-HealthCareMagic-100k`
